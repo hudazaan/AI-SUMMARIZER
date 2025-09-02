@@ -3,5 +3,5 @@ GenAI meeting summarization system leveraging NLP for transcript analysis and La
 
 
 **Frontend:** React.js, Vite, TailwindCSS, axios. <br>
-**Backend:** Node.js, Express.js, MongoDB, mongoose, dotenv, cors, nodemailer. <br>
+**Backend:** Node.js, Express.js, MongoDB, mongoose, dotenv, cors, nodemailer, Nginx. <br>
 **AI Model Integration:** OpenAI GPT-4o-mini (via openai SDK) Node SDK. <br>
